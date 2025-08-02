@@ -1,0 +1,2 @@
+timestamp,image_id,true_label,predicted_label,confidence,trust_score,explanation_method,notes
+2025-06-29 14:08:00,img_034,F22,F22,0.9462,0.81,Grad-CAM,Correct detection with strong heatmap.
